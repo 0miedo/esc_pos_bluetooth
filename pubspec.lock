@@ -14,7 +14,7 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.5.0"
+    version: "2.6.1"
   boolean_selector:
     dependency: transitive
     description:
@@ -88,11 +88,9 @@ packages:
   flutter_bluetooth_basic:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "05b58a684fa02b235db40dc0061cfa377745f9c6"
-      url: "https://github.com/teewhydope/flutter_bluetooth_basic.git"
-    source: git
+      name: flutter_bluetooth_basic
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.1.5"
   flutter_test:
     dependency: "direct dev"
@@ -168,7 +166,7 @@ packages:
       name: rxdart
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.26.0"
+    version: "0.23.1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -215,7 +213,7 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.19"
+    version: "0.3.0"
   typed_data:
     dependency: transitive
     description:
